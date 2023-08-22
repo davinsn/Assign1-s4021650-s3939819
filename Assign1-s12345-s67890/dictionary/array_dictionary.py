@@ -15,7 +15,8 @@ class ArrayDictionary(BaseDictionary):
 
     def __init__(self):
         # TO BE IMPLEMENTED
-        pass
+        self.array[]
+        
 
 
     def build_dictionary(self, words_frequencies: [WordFrequency]):
