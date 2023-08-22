@@ -15,7 +15,7 @@ class ArrayDictionary(BaseDictionary):
 
     def __init__(self):
         # TO BE IMPLEMENTED
-        self.array[]
+        self.array = ArrayDictionary
         
 
 
